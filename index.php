@@ -14,13 +14,13 @@
         <div class="search">
             <input type="search" placeholder="Pesquisar">
         </div>
-        <ul>
+                <ul>
                 <li><a href="#">Chat Bot</a></li>
                 <li><a href="#">Postagem</a></li>
                 <li><a href="#">Publicação</a></li>
-              
-            </ul>
+                </ul>
     </nav>
-
-</body>
-</html>
+        </body>
+    </html>
+    <!-- http://localhost/LetsGooo/index.php -->
+    
