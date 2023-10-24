@@ -18,7 +18,7 @@
                 <li><a href="#">Chat Bot</a></li>
                 <li><a href="#">Postagem</a></li>
                 <li><a href="#">Publicação</a></li>
-                <li><a href="#">Teste git</a></li>
+              
             </ul>
     </nav>
 
